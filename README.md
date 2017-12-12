@@ -5,12 +5,16 @@ This repo consist of the project done for the course **Data mining Techniques- C
 Our dataset is the **Consumer Financial Complaint Dataset** - which consists of features such as the Product (or the main category an issue belongs to), Company (against which the complaint is lodged), Company’s response to consumer, Timely Response, etc. This dataset is a collection of complaints against the financial product types/services e.g. Checking/Savings Accounts, Credit cards disputes, Debt Collection, etc. 
 
 The dataset can be obtained at the following link:
+
 https://catalog.data.gov/dataset/consumer-complaint-database#topic=consumer_navigation
 
 The dataset can be viewed at : 
+
 https://data.consumerfinance.gov/dataset/Consumer-Complaints/s6ew-h6mp
 
-Detailed description of the dataset features can be found at: https://www.consumerfinance.gov/complaint/data-use/#reports
+Detailed description of the dataset features can be found at: 
+
+https://www.consumerfinance.gov/complaint/data-use/#reports
 
 ## Installation
 
