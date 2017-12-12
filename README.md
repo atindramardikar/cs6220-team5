@@ -35,7 +35,7 @@ ipython jupyter
 
 ## Contributors
 
-- @ankitanallana
+- Ankita Nallana
 - Atindra Mardikar
 - Sudeep Kulkarni	
 - Zikun Lin
