@@ -1,6 +1,6 @@
 ## Synopsis
 
-This repo consist of the project done for the course **Data mining Techniques- CS6220**.
+This repo consists of the project done for the course **Data mining Techniques- CS6220**.
 
 Our dataset is the **Consumer Financial Complaint Dataset** - which consists of features such as the Product (or the main category an issue belongs to), Company (against which the complaint is lodged), Company’s response to consumer, Timely Response, etc. This dataset is a collection of complaints against the financial product types/services e.g. Checking/Savings Accounts, Credit cards disputes, Debt Collection, etc. 
 
@@ -20,6 +20,7 @@ https://www.consumerfinance.gov/complaint/data-use/#reports
 
 ipython jupyter is needed to run files in this project.
 Full documentation on how to install and run ipython notebook is here:
+
 http://jupyter.org/documentation.html
 
 
