@@ -20,7 +20,7 @@ https://www.consumerfinance.gov/complaint/data-use/#reports
 
 ipython jupyter is needed to run files in this project.
 Full documentation on how to install and run ipython notebook is here:
-https://ipython.org/ipython-doc/3/notebook/notebook.html
+http://jupyter.org/documentation.html
 
 
 ## Running the code:
@@ -31,7 +31,8 @@ https://ipython.org/ipython-doc/3/notebook/notebook.html
 
 - Open terminal and navigate to the unzipped folder and start ipython jupyter by running the command  					
 ```
-ipython jupyter
+jupyter notebook
+
 ```
 - In the home page that shows up on the browser select a particular notebook which you want to run.
 
