@@ -32,7 +32,6 @@ http://jupyter.org/documentation.html
 - Open terminal and navigate to the unzipped folder and start ipython jupyter by running the command  					
 ```
 jupyter notebook
-
 ```
 - In the home page that shows up on the browser select a particular notebook which you want to run.
 
