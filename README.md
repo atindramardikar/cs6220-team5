@@ -22,9 +22,15 @@ https://ipython.org/ipython-doc/3/notebook/notebook.html
 ## Running the code:
 
 Download the zip of the repo by clicking on the green 'Clone or download' button on the top right of the repo home page.
+
 Unzip the folder in your computer.
-Open terminal and navigate to the unzipped folder and start ipython jupyter by running the command  						ipython jupyter
+
+Open terminal and navigate to the unzipped folder and start ipython jupyter by running the command  					
+
+ipython jupyter
+
 In the home page that shows up on the browser select a particular notebook which you want to run.
+
 On the opened notebook page under Run menu select 'Restart and run all' which will run all cells of the python notebook.
 
 ## Contributors
