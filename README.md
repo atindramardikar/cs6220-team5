@@ -24,10 +24,15 @@ Full documentation on how to install and run ipython notebook is here:
 http://jupyter.org/documentation.html
 
 Prerequisites: 
+
 Apyori 1.1.1 library - https://pypi.python.org/pypi/apyori/1.1.1 
+
 Pandas - http://pandas.pydata.org/ 
+
 Numpy  - http://www.numpy.org
+
 Gensim - https://pypi.python.org/pypi/gensim
+
 NLTK - http://www.nltk.org/install.html
 
 ## Running the code:
