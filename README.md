@@ -35,6 +35,8 @@ Follow the instruction here: http://www.numpy.org
 
 - Unzip the folder in your computer.
 
+- Download the csv(Consumer_complaints.csv) format of the dataset from the link above and paste it in the unzipped project folder.
+
 - Open terminal and navigate to the unzipped folder and start ipython jupyter by running the command  					
 ```
 jupyter notebook
