@@ -26,6 +26,11 @@ http://jupyter.org/documentation.html
 
 ## Running the code:
 
+Prerequisites: "apyori 1.1.1" library
+Follow the instruction here: https://pypi.python.org/pypi/apyori/1.1.1 "pandas 0.19.1"
+library Follow the instruction here: http://pandas.pydata.org/ "numpy 1.12.0b1" liberary
+Follow the instruction here: http://www.numpy.org
+
 - Download the zip of the repo by clicking on the green **'Clone or download'** button on the top right of the repo home page.
 
 - Unzip the folder in your computer.
