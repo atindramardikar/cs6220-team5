@@ -4,8 +4,8 @@ import csv
 
 import time
 
-import FPTreeBuilder
-import FPTreeMiner
+from associationRule import FPTreeBuilder
+from associationRule import FPTreeMiner
 from apyori import apriori
 
 def associationAnalysis():
@@ -19,7 +19,7 @@ def associationAnalysis():
         transactions.remove([])
         headerList = transactions[0]
 
-        print headerList
+        print (headerList)
 
     for transaction in transactions:
         trans = []
@@ -49,7 +49,7 @@ def associationAnalysis():
     print('Using Apriori library to find the frequent pattern in given transactions:')
     start_timeA = time.time()
     aprioriResults = list(apriori(formedTransactions,min_support=0.6,min_confidence = 0.9))
-    print aprioriResults
+    print (aprioriResults)
     outputFile = open('06-09.text', "w")
     for i in aprioriResults:
         outputFile.write(str(i) + '\n')

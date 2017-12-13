@@ -1,4 +1,4 @@
-import FPTreeBuilder
+from associationRule import FPTreeBuilder
 import copy
 
 class FPTreeMiner(object):
@@ -54,7 +54,7 @@ class FPTreeMiner(object):
                 items = fItem[0:index] 
                 if self.targetItem1 in items or self.targetItem2 in items:
                     if len(items) >= 3:
-                        print tuple(items),':',fItem[index]
+                        print (tuple(items),':',fItem[index])
         return 
     
     # get pattern base of an item by searching header table
