@@ -23,19 +23,21 @@ Full documentation on how to install and run ipython notebook is here:
 
 http://jupyter.org/documentation.html
 
+Prerequisites: 
+Apyori 1.1.1 library - https://pypi.python.org/pypi/apyori/1.1.1 
+Pandas - http://pandas.pydata.org/ 
+Numpy  - http://www.numpy.org
+Gensim - https://pypi.python.org/pypi/gensim
+NLTK - http://www.nltk.org/install.html
 
 ## Running the code:
 
-Prerequisites: "apyori 1.1.1" library
-Follow the instruction here: https://pypi.python.org/pypi/apyori/1.1.1 "pandas 0.19.1"
-library Follow the instruction here: http://pandas.pydata.org/ "numpy 1.12.0b1" liberary
-Follow the instruction here: http://www.numpy.org
 
 - Download the zip of the repo by clicking on the green **'Clone or download'** button on the top right of the repo home page.
 
 - Unzip the folder in your computer.
 
-- Download the csv(Consumer_complaints.csv) format of the dataset from the link above and paste it in the unzipped project folder.
+- Download the csv(re-name the file to Consumer_Complaints.csv) format of the dataset from the link above and paste it in the unzipped project folder.
 
 - Open terminal and navigate to the unzipped folder and start ipython jupyter by running the command  					
 ```
